@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+			<title>Curriculo</title>
+	</head>
+	<body>
+		<header align="center">
+			<p>
+				<br><font size="5">Nome: Kayke de moura ferreira</font>
+				<br><font size="4">Rua: Rua Jorge bellix, 619</font>
+				<br><font size="4">Bairro Jardim andrade</font>
+				<br><font size="4">Pedreira SP</font>
+				<br><font size="4">CEP 13920-000</font>
+				<br><font size="4">16 anos</font>
+				<br><font size="5">━━━━━━━━━━━━━━</font>
+			</p>
+			<p>
+				<font size="5">Objetivo: Tecnico</font>
+			</p>
+			<p>
+				<font size="5">━━━━━━━━━━━━━━</font>
+			</p>
+			<p>
+				<br><font size="5">Formação: Cursando ensino médio</font>
+			</p>
+			<p>
+				<br><font size="5">━━━━━━━━━━━━━━</font>
+				<br>
+				<br><font size="5">Experiência:...</font>
+			</p>
+	</body>        
+	
